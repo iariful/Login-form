@@ -1,6 +1,6 @@
 # Login-form
 
-This is a simple Log in form !
+This is a simple Login form !
 
 ## Tools
 
